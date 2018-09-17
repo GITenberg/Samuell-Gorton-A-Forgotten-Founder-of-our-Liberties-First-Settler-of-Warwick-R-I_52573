@@ -1,0 +1,29 @@
+_repo: Samuell-Gorton-A-Forgotten-Founder-of-our-Liberties-First-Settler-of-Warwick-R-I_52573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Janes, Lewis G. (Lewis George)
+    alias: Janes, Lewis George
+    birthdate: 1844
+    deathdate: 1901
+    gutenberg_agent_id: '46936'
+    url: http://www.gutenberg.org/2009/agents/46936
+description: ''
+gutenberg_issued: '2016-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52573'
+  lccn: '11004714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhode Island -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Warwick (R.I.)'
+- !lcc 'F001'
+- !lcsh 'Gorton, Samuel, 1592 or 1593-1677'
+- GITenberg
+title: 'Samuell Gorton: A Forgotten Founder of our Liberties; First Settler of Warwick,
+  R. I.'
+url: http://www.gutenberg.org/ebooks/52573
