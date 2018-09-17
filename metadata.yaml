@@ -1,5 +1,8 @@
 _repo: Samuell-Gorton-A-Forgotten-Founder-of-our-Liberties-First-Settler-of-Warwick-R-I_52573
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52573-h/images/cover.jpg
 creator:
   author:
     agent_name: Janes, Lewis G. (Lewis George)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46936'
     url: http://www.gutenberg.org/2009/agents/46936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52573#Samuell-Gorton-A-Forgotten-Founder-of-our-Liberties-First-Settler-of-Warwick-R-I
 gutenberg_issued: '2016-07-14'
 gutenberg_type: Text
 identifiers:
